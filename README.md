@@ -65,4 +65,5 @@ Sebuah array dari bilangan bulat yang dipisahkan spasi dan diakhiri dengan enter
 ### Output
 Sebuah sequence yang berisi Largest Monotonically Inreasing Sequence yang pertama kali ditemukan jika ada beberapa sequence dengan panjang yang sama. Contoh:
 
-Sequence [2, 1, 3, 4] akan menghasilkan [2, 3, 4]
+<img width="555" height="57" alt="image" src="https://github.com/user-attachments/assets/1d9e932c-87bd-4d1b-beb7-78911949c3af" />
+
