@@ -11,8 +11,10 @@
 ## Largest Monotonically Increasing Subsequence
 
 ### Cara Kerja
+Program ini menggunakan Binary Search Tree untuk mencari sequence paling besar. Setiap kali sebuah bilangan baru dimasukkan ke dalam tree, akan langsung mencari apakah bilangan tersebut termasuk dalam sebuah sequence atau awal dari sequence baru.
 
 ### Input
+Sebuah array dari bilangan bulat yang dipisahkan spasi dan diakhiri dengan enter
 
 ### Output
 Sebuah sequence yang berisi Largest Monotonically Inreasing Sequence yang pertama kali ditemukan jika ada beberapa sequence dengan panjang yang sama. Contoh:
